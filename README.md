@@ -2,3 +2,7 @@
 for practice
 my data
 new learners
+
+branching 
+merging 
+data exchanging
